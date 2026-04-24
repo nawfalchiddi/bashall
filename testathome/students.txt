@@ -1,0 +1,3 @@
+nawfal - age: 18 - the role: std
+hamza - Age: 21 - Role: student
+achraf - Age: 19 - Role: student

@@ -1,0 +1,20 @@
+
+
+/* Using a color name */
+
+h1{
+    color: blue;
+    font-size:x-large;
+}
+
+.b2{color: green;
+}
+
+h2{color: red; /* Changes the text color to blue */
+  font-size: x-large; /* Changes the text size to 20 pixels */
+}
+.page {
+  background-color: gray;
+}
+
+
